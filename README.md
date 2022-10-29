@@ -17,9 +17,7 @@
   <br>
   
   
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   ![snake gif](https://github.com/EvinerisonAvelar/EvinerisonAvelar/blob/output/github-contribution-grid-snake.svg)
     
    
 ### Main skills:
@@ -46,6 +44,6 @@
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 
   
- ![snake gif](https://github.com/EvinerisonAvelar/EvinerisonAvelar/blob/output/github-contribution-grid-snake.svg)
+
   
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>****
