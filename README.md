@@ -2,7 +2,7 @@
 
 <h1>Olá, me chamo Evinerison Avelar !</h1>
 
--  🎓 Atualmente no ultimo periodo de Ciencia da Computação
+-  🎓 Formado em Ciencia da Computação
 -  💻 Dev Front-end 
 -  🐍 Atualmente estudando ciência de dados com Python
 -  📒 Buscando sempre ampliar meus conhecimento
